@@ -41,3 +41,10 @@ This project demonstrates:
 
 ```bash
 git clone https://github.com/yourusername/ParkOfZuul.git
+
+
+2. Open the project in a Java enviroment. Eg: VSCode, Netbeans, IntelliJ, etc.
+
+3. Build the project.
+
+4. Run the `Game.java` (or main class).
