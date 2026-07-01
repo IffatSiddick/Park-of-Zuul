@@ -69,3 +69,11 @@ ParkOfZuul/
 │
 ├── README.md
 └── LICENSE
+
+---
+
+## 📄 License
+
+This project is intended for educational purposes.
+
+Licensed under the MIT License.
