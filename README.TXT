@@ -48,3 +48,24 @@ git clone https://github.com/yourusername/ParkOfZuul.git
 3. Build the project.
 
 4. Run the `Game.java` (or main class).
+
+---
+
+## 📂 Project Structure
+ParkOfZuul/
+│
+├── src/
+│   ├── Game.java
+│   ├── Player.java
+│   ├── Room.java
+│   ├── Item.java
+│   ├── Command.java
+│   ├── CommandWords.java
+│   └── Parser.java
+│
+├── images/
+│   ├── gameplay.png
+│   └── map.png
+│
+├── README.md
+└── LICENSE
