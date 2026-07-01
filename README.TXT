@@ -1,6 +1,43 @@
-PROJECT TITLE: Park of Zuul
-PURPOSE OF PROJECT: To demonstrate a thorough understanding of key Java concepts including OOP, inheritance, and abstact classes.
-VERSION or DATE: 2025
-HOW TO START THIS PROJECT: Download repo and click run project.
-AUTHORS: Iffat Siddick
-USER INSTRUCTIONS: Follow the promps that appear on screen and use the box below to choose options presented to you.
+# 🏰 Park of Zuul
+
+A Java text adventure game built to demonstrate object-oriented programming concepts.
+
+---
+
+## 📖 Project Overview
+
+This project demonstrates:
+
+- ✅ Object-Oriented Programming
+- ✅ Inheritance
+- ✅ Abstract Classes
+- ✅ Encapsulation
+- ✅ Polymorphism
+
+---
+
+## 🚀 Features
+
+- Explore multiple rooms
+- Pick up items
+- Interact with objects
+- Command parser
+- Inventory system
+
+---
+
+## 🛠 Technologies
+
+- Java
+- IntelliJ IDEA
+- Git
+- GitHub
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/ParkOfZuul.git
